@@ -31,10 +31,12 @@ etc. If in doubt shoot the instructor an email.
 The class will involve a combination of lectures, in-class group exercises,
 homeworks, a midterm, and a final. You'll be graded according to the following:
 
-* Participation: 15%
+* Participation: 10%
 * Homeworks:  50% (each homework will count an equal amount)
-* Project:  25% 
-* Final:  25% 
+* Project:  20% 
+* Final:  20% 
+
+There will be several opportunities for extra credit, as well.
 
 ### Background reading
 
