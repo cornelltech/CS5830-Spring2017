@@ -61,27 +61,27 @@ what we're hoping to cover.  Homeworks will be due on the due date by
 | Date |  Topic  |  Note |
 |------|---------|--------|
 | Jan 26 | Intro & one-time-pads | |
-| Jan 31  | OTP, block ciphers | HW0 (CTR mode) released. |
+| Jan 31  | OTP, block ciphers |  |
 | Feb 2 |  Feistel, length-preserving encryption |  |
-| Feb 7 |  Insecure symmetric encryption | HW0 due. HW1 (length preserving cipher)  released. |
+| Feb 7 |  Insecure symmetric encryption |  |
 | Feb 9 |  Discussion section with TA | |
 | Feb 14 | PRFs & message authentication | |
-| Feb 16 | Authenticated encryption |  HW1 due. HW2 (padding oracle attack) released. |
+| Feb 16 | Authenticated encryption |   |
 | Feb 21 | No Lecture (February break)  |  |
 | Feb 23 | AEAD & hash functions | |
 | Feb 28 | Password handling |  |
-| Mar 2 | Guest lecture: Paul Kehrer | HW2 due. HW3 (AEAD) released. |
+| Mar 2 | Guest lecture: Paul Kehrer |  |
 | Mar 7 |  TLS & TLS record layer | |
-| Mar 9 |  Public-key encryption & key transport| |
-| Mar 14 | RSA  |  |
-| Mar 16 |  Key exchange & Diffie-Hellman| |
-| Mar 21 |  Hybrid encryption & ElGamal| |
-| Mar 23 | Digital signatures  |  HW3 due. |
-| Mar 28 | Digital signatures & PKI |  Enjoy the break and think about the project. |
+| Mar 9 |  In-class midterm | |
+| Mar 14 | Public-key encryption & key transport  |  |
+| Mar 16 |  RSA| |
+| Mar 21 |  Key exchange & Diffie-Hellman| |
+| Mar 23 | Hybrid encryption & ElGamal  |   |
+| Mar 28 | Digital signatures |   |
 | Mar 30 | Digital signatures & PKI | |
-| Apr 4 | No lecture (Spring break) | HW4 released (TLS setup) |
+| Apr 4 | No lecture (Spring break) |  |
 | Apr 6 | No lecture (Spring break) | |
-| Apr 11 | OpenPGP  | HW4 due. HW5 (Public-key encryption) released. |
+| Apr 11 | OpenPGP  |  |
 | Apr 13 |  TextSecure  | |
 | Apr 18 | RNGs |  |
 | Apr 20 | Cryptographic backdoors | |
