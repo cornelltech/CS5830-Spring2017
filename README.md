@@ -63,15 +63,15 @@ what we're hoping to cover.  Homeworks will be due on the due date by
 | Date |  Topic  |  Note |
 |------|---------|--------|
 | Jan 26 | Intro & one-time-pads | |
-| Jan 31  | OTP, block ciphers |  |
-| Feb 2 |  Feistel, length-preserving encryption |  |
-| Feb 7 |  Insecure symmetric encryption |  |
-| Feb 9 |  Discussion section with TA | |
-| Feb 14 | PRFs & message authentication | |
-| Feb 16 | Authenticated encryption |   |
+| Jan 31  | OTP |  |
+| Feb 2 |  CTR mode, computational indistinguishability & reductions |  |
+| Feb 7 |  Block ciphers |  |
+| Feb 9 |  Class cancelled (snow day) | |
+| Feb 14 | Block cipher modes, CBC mode | |
+| Feb 16 | Padding oracle attacks |   |
 | Feb 21 | No Lecture (February break)  |  |
-| Feb 23 | AEAD & hash functions | |
-| Feb 28 | Password handling |  |
+| Feb 23 | Authenticated encryption, Message authentication | |
+| Feb 28 | Hash functions, HMAC |  |
 | Mar 2 | Guest lecture: Paul Kehrer |  |
 | Mar 7 |  TLS & TLS record layer | |
 | Mar 9 |  In-class midterm | |
