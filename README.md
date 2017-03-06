@@ -73,22 +73,22 @@ what we're hoping to cover.  Homeworks will be due on the due date by
 | Feb 23 | Authenticated encryption, Message authentication | |
 | Feb 28 | Hash functions, HMAC |  |
 | Mar 2 | Guest lecture: Paul Kehrer |  |
-| Mar 7 |  TLS & TLS record layer | |
-| Mar 9 |  In-class midterm | |
-| Mar 14 | Public-key encryption & key transport  |  |
-| Mar 16 |  RSA| |
-| Mar 21 |  Key exchange & Diffie-Hellman| |
-| Mar 23 | Hybrid encryption & ElGamal  |   |
-| Mar 28 | Digital signatures |   |
-| Mar 30 | Digital signatures & PKI | |
+| Mar 7 |  Password-based AEAD | |
+| Mar 9 |  TLS & TLS record layer | |
+| Mar 14 | Paul lecturing (crypto development)  |  |
+| Mar 16 | Public-key encryption & key transport| |
+| Mar 21 |  In-class midterm | |
+| Mar 23 |  RSA   |   |
+| Mar 28 | Key exchange & Diffie-Hellman  |   |
+| Mar 30 | Hybrid encryption & ElGamal | |
 | Apr 4 | No lecture (Spring break) |  |
 | Apr 6 | No lecture (Spring break) | |
-| Apr 11 | OpenPGP  |  |
-| Apr 13 |  TextSecure  | |
-| Apr 18 | RNGs |  |
-| Apr 20 | Cryptographic backdoors | |
-| Apr 25 | | |
-| Apr 27 |   | |
+| Apr 11 | Digital signatures  |  |
+| Apr 13 |  Digital signatures & PKI  | |
+| Apr 18 | OpenPGP |  |
+| Apr 20 | TextSecure | |
+| Apr 25 | RNGs| |
+| Apr 27 |  Cryptographic backdoors | |
 | May 2 | (Tom traveling) | |
 | May 4 |  | |
 | May 9 | (Tom traveling) | |
