@@ -62,34 +62,34 @@ what we're hoping to cover.  Homeworks will be due on the due date by
 
 | Date |  Topic  |  Note |
 |------|---------|--------|
-| Jan 26 | Intro & one-time-pads | |
-| Jan 31  | OTP |  |
-| Feb 2 |  CTR mode, computational indistinguishability & reductions |  |
-| Feb 7 |  Block ciphers |  |
+| Jan 26 | Intro & one-time-pads | [Slides](slides/intro.pdf) |
+| Jan 31  | OTP | [Slides](slides/otp.pdf) |
+| Feb 2 |  CTR mode, computational indistinguishability & reductions | [Slides](slides/ctr-mode.pdf) |
+| Feb 7 |  Block ciphers | [Slides](slides/ctr-blockcipher.pdf) |
 | Feb 9 |  Class cancelled (snow day) | |
-| Feb 14 | Block cipher modes, CBC mode | |
-| Feb 16 | Padding oracle attacks |   |
+| Feb 14 | Block cipher modes, CBC mode | [Slides](slides/symenc.pdf) |
+| Feb 16 | Padding oracle attacks | [Slides](slides/padoracle.pdf)  |
 | Feb 21 | No Lecture (February break)  |  |
-| Feb 23 | Authenticated encryption, Message authentication | |
-| Feb 28 | Hash functions, HMAC |  |
+| Feb 23 | Authenticated encryption, Message authentication | [Slides](slides/msgauth.pdf) |
+| Feb 28 | Hash functions, HMAC | [Slides](slides/hash.pdf) |
 | Mar 2 | Guest lecture: Paul Kehrer |  |
-| Mar 7 |  Password-based AEAD | |
-| Mar 9 |  TLS & TLS record layer | |
-| Mar 14 | Paul lecturing (crypto development)  |  |
-| Mar 16 | Public-key encryption & key transport| |
+| Mar 7 |  Password-based AEAD | [Slides](slides/pwae.pdf) |
+| Mar 9 |  TLS & TLS record layer | [Slides](slides/tls.pdf) |
+| Mar 14 | Campus closed   |  |
+| Mar 16 | Overview of practice midterm | |
 | Mar 21 |  In-class midterm | |
-| Mar 23 |  RSA   |   |
-| Mar 28 | Key exchange & Diffie-Hellman  |   |
-| Mar 30 | Hybrid encryption & ElGamal | |
+| Mar 23 |  Overview of midterm |   |
+| Mar 28 |  Paul's lecture on unit testing  |   |
+| Mar 30 | Asymmetric crypto intro  | |
 | Apr 4 | No lecture (Spring break) |  |
 | Apr 6 | No lecture (Spring break) | |
-| Apr 11 | Digital signatures  |  |
-| Apr 13 |  Digital signatures & PKI  | |
-| Apr 18 | OpenPGP |  |
-| Apr 20 | TextSecure | |
-| Apr 25 | RNGs| |
-| Apr 27 |  Cryptographic backdoors | |
-| May 2 | (Tom traveling) | |
-| May 4 |  | |
+| Apr 11 | Key exchange & Diffie-Hellman  |  |
+| Apr 13 | Hybrid encryption & ElGamal  | |
+| Apr 18 | Digital signatures  |  |
+| Apr 20 |  Digital signatures & PKI| |
+| Apr 25 | OpenPGP | |
+| Apr 27 | TextSecure   | |
+| May 2 | RNGs  | |
+| May 4 | Cryptographic backdoors | |
 | May 9 | (Tom traveling) | |
 
