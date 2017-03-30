@@ -80,7 +80,7 @@ what we're hoping to cover.  Homeworks will be due on the due date by
 | Mar 21 |  In-class midterm | |
 | Mar 23 |  Overview of midterm |   |
 | Mar 28 |  Paul's lecture on unit testing  |   |
-| Mar 30 | Asymmetric crypto intro  | |
+| Mar 30 | RSA  | [Slides](slides/rsa.pdf) |
 | Apr 4 | No lecture (Spring break) |  |
 | Apr 6 | No lecture (Spring break) | |
 | Apr 11 | Key exchange & Diffie-Hellman  |  |
