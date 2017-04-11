@@ -83,7 +83,7 @@ what we're hoping to cover.  Homeworks will be due on the due date by
 | Mar 30 | RSA  | [Slides](slides/rsa.pdf) |
 | Apr 4 | No lecture (Spring break) |  |
 | Apr 6 | No lecture (Spring break) | |
-| Apr 11 | Key exchange & Diffie-Hellman  |  |
+| Apr 11 | Key exchange & Diffie-Hellman  | [Slides](slides/dh.pdf) |
 | Apr 13 | Hybrid encryption & ElGamal  | |
 | Apr 18 | Digital signatures  |  |
 | Apr 20 |  Digital signatures & PKI| |
