@@ -88,8 +88,8 @@ what we're hoping to cover.  Homeworks will be due on the due date by
 | Apr 18 | Discrete log based digital signatures  | [Slides](slides/digsigs2.pdf) |
 | Apr 20 | ECC crypto | [Slides](slides/ecc.pdf) |
 | Apr 25 | Hybrid encryption & ElGamal | [Slides](slides/hybrid.pdf)|
-| Apr 27 | OpenPGP/TextSecure |  |
-| May 2 | RNGs  | |
-| May 4 | Cryptographic backdoors | |
+| Apr 27 | RNGs | [Slides](slides/rng.pdf) |
+| May 2 |  Cryptographic backdoors | |
+| May 4 | TBA | |
 | May 9 | (Tom traveling) | |
 
