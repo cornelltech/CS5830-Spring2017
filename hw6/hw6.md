@@ -1,6 +1,6 @@
 # Public-key encryption
 ```json
-Deadline: 23:59:59, May 17, 2016 
+Deadline: 23:59:59, May 17, 2017 
 ```
 We want to build an application layer public key encryption scheme that will allow users to send messages asynchronously with others without a pre-shared secret key.  A typical way to do this is using a hybrid of public-key and symmetric-key encryption schemes. The symmetric encryption portion of this can utilize our existing Fernet2 encryption scheme. While for the public-key part of it, we shall use one or more asymmetric encryption schemes supported by the `cryptography` library. Let call this encryption scheme `PKFernet`.
 
