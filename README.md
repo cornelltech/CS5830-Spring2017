@@ -89,7 +89,7 @@ what we're hoping to cover.  Homeworks will be due on the due date by
 | Apr 20 | ECC crypto | [Slides](slides/ecc.pdf) |
 | Apr 25 | Hybrid encryption & ElGamal | [Slides](slides/hybrid.pdf)|
 | Apr 27 | RNGs | [Slides](slides/rng.pdf) |
-| May 2 |  Cryptographic backdoors | |
-| May 4 | TBA | |
+| May 2 |  Cryptographic backdoors | [Slides](slides/backdoors.pdf) |
+| May 4 | Summary & Internet Censorship | |
 | May 9 | (Tom traveling) | |
 
