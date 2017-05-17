@@ -90,6 +90,6 @@ what we're hoping to cover.  Homeworks will be due on the due date by
 | Apr 25 | Hybrid encryption & ElGamal | [Slides](slides/hybrid.pdf)|
 | Apr 27 | RNGs | [Slides](slides/rng.pdf) |
 | May 2 |  Cryptographic backdoors | [Slides](slides/backdoors.pdf) |
-| May 4 | Summary & Internet Censorship | |
+| May 4 | Summary & Internet Censorship | [Slides](slides/censorship.pdf) |
 | May 9 | (Tom traveling) | |
 
